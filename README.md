@@ -10,14 +10,6 @@
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 </div><br>
-
-### GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/Hyp-n0s">
-  </a>
-</div>
-    
 ### Contact
 
 <div> 
